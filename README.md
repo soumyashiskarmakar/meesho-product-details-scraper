@@ -1,4 +1,4 @@
-# Get-Meesho-Product-Details
+# Meesho Product Details Scraper
 
 **Installating**
 
