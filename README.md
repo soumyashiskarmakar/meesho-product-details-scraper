@@ -2,21 +2,22 @@
 
 **Installating**
 
-1. Install Python, add to PATH
-2. Clone this repository
-3. Run 'setup.bat' (This will install 'selenium' and 'requests')
+1. Install Python, add to PATH.
+2. Clone this repository.
+3. Run 'setup.bat'. (This will install 'selenium' and 'requests')
 
 **How to use?**
 
-1. Edit 'links.txt'. Simply put all the links of products on meesho that you want details of
-2. Run 'run.bat' (This will run 'main.py' inside your default terminal application)
+1. Edit 'links.txt'. Simply put all the links of products on meesho that you want details of.
+2. Run 'run.bat'. (This will run 'main.py' inside your default terminal application)
 
 **What does it do?**
 
-1. This opens Microsoft Edge (not Headless)
-2. Gets all the details
-3. Clicks on every preview image and downloads the large version of it
-4. Saves everything in the products directory. For each product it uses the links to generate directory names (takes the part of the url after meesho.com and replaces forward slashes ( / ) with underscores ( \_ ))
+1. This opens Microsoft Edge (not Headless).
+2. Gets all the details.
+3. Clicks on every preview image and downloads the large version of it.
+4. Saves everything in the products directory. For each product it uses the links to generate directory names (takes the part of the url after meesho.com and replaces forward slashes ( / ) with underscores ( \_ )).\
+(Already downloaded products are automatically skipped)
 
 **Direcroty Structure:**
 
