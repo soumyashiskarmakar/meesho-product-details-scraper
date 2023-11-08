@@ -40,7 +40,7 @@
     {All the available sizes}
     Description: 
     {description of the product}
-**Images:**           
+**Screenshots:**           
 ![Windows Terminal](<example images/image_2.png>)
 ![Microsoft Edge](<example images/image_0.png>)
 ![Directory Structure](<example images/image_1.png>)
